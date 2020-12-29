@@ -4,7 +4,7 @@
 # bookly
 Sistem Informasi Perpustakaan Online
 
-## About Project Laravel Layanan Antrian SPKT
+## About Project
 
 Web untuk mempermudah mengelola perpustakaan dimana dapat melakukan peminjaman dan peminjaman member di dalam web.
 Web ini menggunakan PHP Native, Bootstrap, dan Jquery.
