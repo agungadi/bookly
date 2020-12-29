@@ -23,8 +23,14 @@ Web ini memiliki beberapa fitur antara lain :
 - Delete Buku
 - Delete User
 - Semua Field Input menggunakan Form Validation Jquery dan PHP.
+# Login Admin
+Username : admin
+Password : admin
+# Login Uset
+Username : n0tail
+Password : 123456
 
-#Screenshot beberapa Tampilan
+## Screenshot beberapa Tampilan
 
 <p align="center"><img src="https://user-images.githubusercontent.com/25838868/103279079-99c14380-49ff-11eb-8037-4c0862632674.png" width="600"></p>
 
