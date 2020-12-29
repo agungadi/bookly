@@ -1,0 +1,67 @@
+/* Navigation Bar */
+.navbar{
+    padding: 20px 10px 20px 0px;
+    background-color: #28a7e9;
+    transition: all ease 0.4s;
+  }
+  .navbar-brand{
+    font-size: 22px;
+    color: white !important;
+  }
+  .navbar .navbar-nav li a{
+    font-size: 16px;
+    color: black;
+  }
+  
+ 
+  
+  /* Jumbotron */
+  .jumbotron{
+    margin-top: 40px;
+  }
+
+  .navbar.bg-light {
+    background-color: #f3e2b3 !important;
+  }
+  .form-control {
+      border-radius: 4.25rem;
+    }
+  
+/*gambar*/
+.skillbar {
+    margin-top: 40px;    
+   }
+   .skillbar {
+       margin-bottom: 3em;
+       background: #28a7e9;
+       padding: 2em;
+       min-height: 169px;
+   }
+   
+
+   
+   .avatar .img-circle {
+       background: #fff;
+       padding: 3px;
+       border: 1px solid #c5c5c5;
+   }
+   
+   .avatar img {
+       max-width: 100%;
+   }
+   
+   .img-circle {
+       border-radius: 50%;
+   }
+   
+   .skillbar h4, .skillbar h4 a {
+       font-weight: 700;
+   }
+   
+   .skillbar h4 {
+       margin-bottom: 8px;
+   }
+   
+   .skillbar .skillbar-body {
+       font-size: .9em;
+   }                 
